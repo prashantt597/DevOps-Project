@@ -1,10 +1,4 @@
-Here is the complete `README.md` file content, formatted and ready to copy-paste into a file.
 
----
-
-**File: `README.md`**
-
-````markdown
 # 🚀 Flask DevOps Project
 
 A complete, production-ready **Flask DevOps pipeline** deployed on **AWS EKS**, using **Terraform**, **Helm**, **GitHub Actions**, and integrated with **SonarCloud**, **Trivy**, and **Slack**. Built for real-time, secure, and scalable cloud-native deployments.
